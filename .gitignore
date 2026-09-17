@@ -1,0 +1,6 @@
+_shots/
+_work/
+*.jpg
+*.png
+.DS_Store
+Thumbs.db
